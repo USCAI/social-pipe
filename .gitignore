@@ -1,13 +1,30 @@
-# http://www.gnu.org/software/automake
+target/
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
 
-Makefile.in
+# External tool builders
+.externalToolBuilders/
 
-# http://www.gnu.org/software/autoconf
+# Locally stored "Eclipse launch configurations"
+*.launch
 
-/autom4te.cache
-/aclocal.m4
-/compile
-/configure
-/depcomp
-/install-sh
-/missing
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# development specific
+output/
