@@ -1,0 +1,17 @@
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\bin\Debug\USC.InfArch.TwitterApp.exe
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\bin\Debug\USC.InfArch.TwitterApp.pdb
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\bin\Debug\Hammock.ClientProfile.dll
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\bin\Debug\Newtonsoft.Json.dll
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\bin\Debug\TweetSharp.dll
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\bin\Debug\Hammock.ClientProfile.pdb
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\bin\Debug\Newtonsoft.Json.xml
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\bin\Debug\TweetSharp.pdb
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\USC.InfArch.TwitterApp.Form1.resources
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\USC.InfArch.TwitterApp.Properties.Resources.resources
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\USC.InfArch.TwitterApp.exe
+D:\DropBox\Dropbox\USC\IX\Arquitectura de la información\TwitterApplication\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\USC.InfArch.TwitterApp.pdb
+C:\Users\Narvaez\Desktop\Arq Info\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\USC.InfArch.TwitterApp.exe
+C:\Users\Narvaez\Desktop\Arq Info\USC.InfArch.TwitterApp\USC.InfArch.TwitterApp\obj\x86\Debug\USC.InfArch.TwitterApp.pdb
