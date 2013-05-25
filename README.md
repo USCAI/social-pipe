@@ -116,7 +116,7 @@ Among the output, you should see the following:
 
 To enable logging of all tuples sent within the topology, run the following command:
 
-		$ mvn exec:java -Dexec.mainClass=com.hmsonline.storm.cassandra.example.CassandraReachTopology -Ddebug=true
+		$ mvn exec:java -Dexec.mainClass=com.usc.sensor.CassandraReachTopology -Ddebug=true
 
 
 ## Running the Persistent Word Count Example
@@ -136,7 +136,7 @@ Cassandra database using the word as the row key.
 
 Run the `PersistentWordCount` topology:
 
-		$ mvn exec:java -Dexec.mainClass=com.hmsonline.storm.cassandra.example.PersistentWordCount
+		$ mvn exec:java -Dexec.mainClass=com.usc.sensor.PersistentWordCount
 	
 View the end result in `cassandra-cli`:
 
