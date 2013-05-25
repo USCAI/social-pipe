@@ -1,4 +1,4 @@
-package com.ambie.sensor;
+package com.usc.sensor;
 
 import java.util.Map;
 import java.util.Random;

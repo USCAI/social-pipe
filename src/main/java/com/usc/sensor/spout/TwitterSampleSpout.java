@@ -1,4 +1,4 @@
-package com.ambie.sensor.spout;
+package com.usc.sensor.spout;
 
 import java.util.Map;
 import java.util.concurrent.LinkedBlockingQueue;

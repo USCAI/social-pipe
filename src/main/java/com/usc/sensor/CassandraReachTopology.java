@@ -1,6 +1,6 @@
 // Copyright (c) 2012 P. Taylor Goetz
 
-package com.ambie.sensor;
+package com.usc.sensor;
 
 import java.util.HashMap;
 import java.util.HashSet;

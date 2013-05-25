@@ -1,4 +1,4 @@
-package com.ambie.sensor;
+package com.usc.sensor;
 
 import static backtype.storm.utils.Utils.tuple;
 
